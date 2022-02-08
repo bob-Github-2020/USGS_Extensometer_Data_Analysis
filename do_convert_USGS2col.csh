@@ -6,13 +6,11 @@
 
 ## Original format
 ## head TABLE2_Addicks.txt
- #DATE	CUMULATIVE_COMPACTION
- #7/11/1974	0.000
- #7/24/1974	0.004
- #8/30/1974	0.009
- #9/30/1974	0.010
-
-
+   #DATE	CUMULATIVE_COMPACTION
+   #7/11/1974	0.000
+   #7/24/1974	0.004
+   #8/30/1974	0.009
+   #9/30/1974	0.010
 
 foreach f (TABLE*.txt)
 dos2unix $f
