@@ -28,15 +28,11 @@ tail -n +2 $f > test1
 ## sed -e 's/\s\+/,/g' orig.txt > modified.txt
 sed -e 's/\/\+/ /g' test1 > test2
  
-## calculate decimal year
-##  rday=ny*1.0+((nm-1)*30.3+nd)/365.25
-## convert feet to meters
-##        water(ic)=r*(-0.3048)
-
 ## convert ft to -cm. by * -30.48
-
 awk 'BEGIN{FS=OFS=" "}{print ($1,$2,$3,$4*(-30.48)) }' test2 > test3
 
+## calculate decimal year
+##  rday=ny*1.0+((nm-1)*30.3+nd)/365.25
 ## calculate decimal year, dy=$3+(($1-1)*30.3+$2)/365.25
 awk 'BEGIN{FS=OFS=" "}{print (($3+(($1-1)*30.33+$2)/365.25),$4)}' test3 > $ss.col
  
