@@ -1,0 +1,14 @@
+-94.8950028	29.416325	Texas City					
+-95.14552777	29.9132222	Lake Houston			
+-95.5861389	29.7906944	Addicks				
+-95.3339722	29.7908889	Northeast				
+-95.03065	29.7578417	Baytown Shallow	Extensometer.ll				
+-95.03065	29.7578417	Baytown Deep				
+-95.4507778	29.727	        Southwest				
+-95.2740556	29.7017222	East End				
+-95.159275	29.7101583	Pasadena				
+-95.0960278	29.5518611	Johnson Space Center			
+-95.1192778	29.56375	Clear Lake Shallow			
+-95.1189444	29.5634167	Clear Lake Deep		
+-95.0214556	29.5647944	Seabrook
+-95.74778	29.72417	Cinco MUD
