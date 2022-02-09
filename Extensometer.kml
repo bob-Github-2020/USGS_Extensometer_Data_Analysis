@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+	<Document>
+		<Style id="st-1547113-0">
+			<IconStyle>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+				</Icon>
+				<scale>1</scale>
+				<color>ff80c0ff</color>
+			</IconStyle>
+			<LineStyle>
+				<color>ff000000</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>ff80c0ff</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<LabelStyle>
+				<scale>1</scale>
+				<color>bfffffff</color>
+			</LabelStyle>
+		</Style>
+		<Folder>
+			<name>Extensometer.ll</name>
+			<Folder>
+				<name>Point Set 0</name>
+				<Placemark>
+					<name>Point 0</name>
+					<styleUrl>#st-1547113-0</styleUrl>
+					<Point>
+						<coordinates>
+						-94.8950028,29.416325,0
+						</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Point 1</name>
+					<styleUrl>#st-1547113-0</styleUrl>
+					<Point>
+						<coordinates>
+						-95.14552777,29.9132222,0
+						</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Point 2</name>
+					<styleUrl>#st-1547113-0</styleUrl>
+					<Point>
+						<coordinates>
+						-95.5861389,29.7906944,0
+						</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Point 3</name>
+					<styleUrl>#st-1547113-0</styleUrl>
+					<Point>
+						<coordinates>
+						-95.3339722,29.7908889,0
+						</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Point 4</name>
+					<styleUrl>#st-1547113-0</styleUrl>
+					<Point>
+						<coordinates>
+						-95.03065,29.7578417,0
+						</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Point 5</name>
+					<styleUrl>#st-1547113-0</styleUrl>
+					<Point>
+						<coordinates>
+						-95.03065,29.7578417,0
+						</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Point 6</name>
+					<styleUrl>#st-1547113-0</styleUrl>
+					<Point>
+						<coordinates>
+						-95.4507778,29.727,0
+						</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Point 7</name>
+					<styleUrl>#st-1547113-0</styleUrl>
+					<Point>
+						<coordinates>
+						-95.2740556,29.7017222,0
+						</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Point 8</name>
+					<styleUrl>#st-1547113-0</styleUrl>
+					<Point>
+						<coordinates>
+						-95.159275,29.7101583,0
+						</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Point 9</name>
+					<styleUrl>#st-1547113-0</styleUrl>
+					<Point>
+						<coordinates>
+						-95.0960278,29.5518611,0
+						</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Point 10</name>
+					<styleUrl>#st-1547113-0</styleUrl>
+					<Point>
+						<coordinates>
+						-95.1192778,29.56375,0
+						</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Point 11</name>
+					<styleUrl>#st-1547113-0</styleUrl>
+					<Point>
+						<coordinates>
+						-95.1189444,29.5634167,0
+						</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Point 12</name>
+					<styleUrl>#st-1547113-0</styleUrl>
+					<Point>
+						<coordinates>
+						-95.0214556,29.5647944,0
+						</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Point 13</name>
+					<styleUrl>#st-1547113-0</styleUrl>
+					<Point>
+						<coordinates>
+						-95.74778,29.72417,0
+						</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+	</Document>
+</kml>
