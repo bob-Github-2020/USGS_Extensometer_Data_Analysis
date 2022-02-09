@@ -9,6 +9,7 @@ Wang G. (2022). Observations from Closely-Spaced Extensometer and GPS Data in Ho
 Detailed steps for processing USGS Extensometer data (Note, USGS does annual update):
 
 Step 1: Download USGS extensometer data at: https://www.sciencebase.gov/catalog/item/5cd30a76e4b09b8c0b7a5cb3
+        
         USGS raw data are not strictly measured in monthly. Some months have no measurement or more than one measurements.
         A resmapling and gap-filling procedure was conducted before further process. See the Python module!
 
