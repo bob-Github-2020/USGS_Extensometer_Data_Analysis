@@ -2,9 +2,11 @@
 
 "Extensometer_Decomposition.py" employs the conventional STL method for USGS Extensometer time series decompositional.
 
-The module was used in the following publication:
+The module was used in the following two publications:
 
-Wang G. (2022). Observations from Closely-Spaced Extensometer and GPS Data in Houston, Texas.
+Wang, G. (2022). Seasonal Subsidence and Heave Recorded by Borehole Extensometers in Houston. Journal of Surveying Engineering. Journal of Surveying Engineering, 149(1): 04022018. http://doi.org/10.1061/JSUED2/SUENG-1369
+
+Wang G. (2022). New Preconsolidation Heads Following the Long-Term Hydraulic-Head Decline and Recovery in Houston, Texas. Groundwater. https://doi.org/10.1111/gwat.13271
 
 Detailed steps for processing USGS Extensometer data (Note, USGS does annual update):
 
