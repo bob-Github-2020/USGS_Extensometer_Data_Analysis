@@ -4,7 +4,11 @@
 
 The module was used in the following two publications:
 
+[2023_Wang_Seasonal_JSE.pdf](https://github.com/bob-Github-2020/USGS_Extensometer_Data_Analysis/files/9993920/2023_Wang_Seasonal_JSE.pdf)
+
 Wang, G. (2022). Seasonal Subsidence and Heave Recorded by Borehole Extensometers in Houston. Journal of Surveying Engineering. Journal of Surveying Engineering, 149(1): 04022018. http://doi.org/10.1061/JSUED2/SUENG-1369
+
+[2022_NewPCH_GW_with_Supp.pdf](https://github.com/bob-Github-2020/USGS_Extensometer_Data_Analysis/files/9993922/2022_NewPCH_GW_with_Supp.pdf)
 
 Wang G. (2022). New Preconsolidation Heads Following the Long-Term Hydraulic-Head Decline and Recovery in Houston, Texas. Groundwater. https://doi.org/10.1111/gwat.13271
 
